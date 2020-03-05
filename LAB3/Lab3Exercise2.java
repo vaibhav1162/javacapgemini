@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Lab3Exercise2 {
 
 		public static void main(String []args) {
-			String array[]= {"navdeep","tripathi"};
+			String array[]= {"vaibhav","malviya"};
 			
 			
 			sort(array);
